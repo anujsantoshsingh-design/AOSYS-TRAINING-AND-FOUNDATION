@@ -1,0 +1,275 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Global Orthopaedic Trauma & Implant Portal</title>
+
+<style>
+body{
+font-family:Arial, sans-serif;
+margin:0;
+background:#f4f9ff;
+color:#1a2b4c;
+scroll-behavior:smooth;
+}
+
+header{
+background:#0a3d62;
+color:white;
+padding:20px;
+text-align:center;
+}
+
+nav{
+background:#1e5f9e;
+padding:10px;
+text-align:center;
+}
+
+nav a{
+color:white;
+margin:10px;
+text-decoration:none;
+font-weight:bold;
+}
+
+nav a:hover{
+text-decoration:underline;
+}
+
+section{
+padding:40px;
+border-bottom:1px solid #ddd;
+}
+
+h2{
+color:#0a3d62;
+}
+
+.card{
+background:white;
+padding:20px;
+margin:20px 0;
+border-radius:8px;
+box-shadow:0 2px 6px rgba(0,0,0,0.1);
+}
+
+table{
+width:100%;
+border-collapse:collapse;
+margin-top:15px;
+}
+
+table, th, td{
+border:1px solid #ccc;
+}
+
+th, td{
+padding:10px;
+text-align:left;
+}
+
+button{
+background:#1e5f9e;
+color:white;
+padding:10px 20px;
+border:none;
+border-radius:5px;
+cursor:pointer;
+}
+
+button:hover{
+background:#0a3d62;
+}
+
+footer{
+background:#0a3d62;
+color:white;
+text-align:center;
+padding:20px;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+<h1>International Orthopaedic Trauma & Implant Portal</h1>
+<p>Advanced Surgical Systems | Global Education Platform</p>
+</header>
+
+<nav>
+<a href="#tibia">Tibia/Fibula</a>
+<a href="#femur">Femur</a>
+<a href="#radius">Radius/Ulna</a>
+<a href="#calcaneus">Calcaneus</a>
+<a href="#ankle">Ankle & Knee</a>
+<a href="#catalog">Implant Catalog</a>
+</nav>
+
+<!-- TIBIA -->
+<section id="tibia">
+<h2>Tibia & Fibula Trauma</h2>
+<div class="card">
+<p>Tibial fractures are common weight-bearing injuries caused by high-energy trauma or osteoporotic fragility fractures.</p>
+<ul>
+<li>Intramedullary Nail System</li>
+<li>Distal Tibia Locking Plate</li>
+<li>Proximal Tibia Locking Plate</li>
+<li>External Fixator</li>
+</ul>
+
+<h3>Surgical Steps (IM Nailing)</h3>
+<ol>
+<li>Supine positioning</li>
+<li>Guide wire insertion</li>
+<li>Reaming</li>
+<li>Nail insertion</li>
+<li>Locking screw placement</li>
+</ol>
+
+<a href="#" download><button>Download Tibia Surgical PDF</button></a>
+</div>
+</section>
+
+<!-- FEMUR -->
+<section id="femur">
+<h2>Femur Trauma Management</h2>
+<div class="card">
+<p>Femur fractures include proximal, shaft, and distal injuries requiring structured fixation techniques.</p>
+
+<h3>Implant Systems</h3>
+<ul>
+<li>Proximal Femur Nail (PFN)</li>
+<li>Femoral Interlocking Nail</li>
+<li>Dynamic Hip Screw</li>
+<li>Distal Femur Locking Plate</li>
+</ul>
+
+<h3>Surgical Technique</h3>
+<ol>
+<li>Entry point preparation</li>
+<li>Canal reaming</li>
+<li>Nail insertion</li>
+<li>Proximal and distal locking</li>
+</ol>
+
+<a href="#"><button>Download Femur Manual</button></a>
+</div>
+</section>
+
+<!-- RADIUS -->
+<section id="radius">
+<h2>Radius & Ulna Trauma</h2>
+<div class="card">
+<p>Forearm fractures require anatomical reduction to restore pronation and supination.</p>
+<ul>
+<li>Distal Radius Volar Locking Plate</li>
+<li>Radius Shaft Plate</li>
+<li>Ulna Locking Plate</li>
+</ul>
+
+<h3>Key Goals</h3>
+<ul>
+<li>Restore radial height</li>
+<li>Restore volar tilt</li>
+<li>Maintain alignment</li>
+</ul>
+
+<a href="#"><button>Download Radius Manual</button></a>
+</div>
+</section>
+
+<!-- CALCANEUS -->
+<section id="calcaneus">
+<h2>Calcaneus Trauma</h2>
+<div class="card">
+<p>Calcaneal fractures are intra-articular injuries affecting subtalar alignment.</p>
+
+<h3>Implant System</h3>
+<ul>
+<li>Anatomical Calcaneal Locking Plate</li>
+<li>Low Profile Screw System</li>
+</ul>
+
+<h3>Surgical Steps</h3>
+<ol>
+<li>Lateral extensile approach</li>
+<li>Posterior facet reduction</li>
+<li>Plate fixation</li>
+</ol>
+
+<a href="#"><button>Download Calcaneus Manual</button></a>
+</div>
+</section>
+
+<!-- ANKLE -->
+<section id="ankle">
+<h2>Ankle & Knee Trauma</h2>
+<div class="card">
+<h3>Ankle Injuries</h3>
+<ul>
+<li>Bimalleolar Fracture</li>
+<li>Trimalleolar Fracture</li>
+<li>Syndesmotic Injury</li>
+</ul>
+
+<h3>Knee Trauma</h3>
+<ul>
+<li>Tibial Plateau Fracture</li>
+<li>Patella Fracture</li>
+<li>Ligament Injuries</li>
+</ul>
+
+<a href="#"><button>Download Ankle/Knee Manual</button></a>
+</div>
+</section>
+
+<!-- CATALOG -->
+<section id="catalog">
+<h2>Implant Product Catalog</h2>
+<div class="card">
+<table>
+<tr>
+<th>Implant</th>
+<th>Material</th>
+<th>Size</th>
+<th>Indication</th>
+</tr>
+<tr>
+<td>Tibial Nail</td>
+<td>Titanium</td>
+<td>8–12mm</td>
+<td>Shaft Fracture</td>
+</tr>
+<tr>
+<td>PFN</td>
+<td>Titanium</td>
+<td>9–12mm</td>
+<td>Intertrochanteric</td>
+</tr>
+<tr>
+<td>Distal Radius Plate</td>
+<td>Titanium</td>
+<td>2.4mm</td>
+<td>Wrist Fracture</td>
+</tr>
+<tr>
+<td>Calcaneal Plate</td>
+<td>Titanium</td>
+<td>Anatomical</td>
+<td>Intra-articular</td>
+</tr>
+</table>
+</div>
+</section>
+
+<footer>
+<p>© 2026 Global Orthopaedic Trauma Portal | Educational & Implant System Platform</p>
+</footer>
+
+</body>
+</html> 
